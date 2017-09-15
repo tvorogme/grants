@@ -100,8 +100,8 @@
 }
 
 .ac-custom svg path {
-    stroke: rgb(255, 140, 102);
-    stroke-width: 13px;
+    stroke: rgb(67, 180, 152);
+    stroke-width: 5px;
     stroke-linecap: round;
     stroke-linejoin: round;
     fill: none;
